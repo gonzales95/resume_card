@@ -1,0 +1,166 @@
+.foot {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color:pink;
+    margin-bottom: 1%;
+    width: 100%;
+    border-radius:15px;
+    box-shadow:1px 1px 50px;
+    padding: 2% 42% 2% 2%;
+}
+
+ 
+
+#contact{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#formations{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#competences{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#experiences{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.c {
+    background-color:rosybrown;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius:15px;
+    box-shadow:1px 1px 50px;
+}
+.nave {
+    background-color: rgb(51, 54, 54);
+    height: 50px;
+}
+
+.a {
+    background-color: white;
+}
+
+.tof {
+    margin-top: 2%;
+}
+
+.bas {
+    margin-top: 1%;
+}
+
+.nom {
+    float: right;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 15%;
+    font-family: "algerian";
+
+
+}
+.au {
+    
+    margin-top: 15%;
+    
+
+}
+
+.prof {
+    float: right;
+    color: gold;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+.annee {
+    float: left;
+    color: gold;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+.ecole {
+    float: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+.edhec {
+   
+    float: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.edhec2 {
+   
+   float: left;
+   color: black;
+   font-size: 20px;
+   font-weight: bold;
+
+}
+.comp{
+   
+   
+   color: black;
+   font-size: 20px;
+   font-weight: bold;
+
+}
+
+.des {
+    float: right;
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.progress-bar {
+    background-color: gold;
+    height: 50%;
+}
+
+.presentation {
+    margin-top: 5%;
+}
+.lo {
+    margin-top: 10%;
+}
+.ro {
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+   }
+
+.back {
+background: url('aff.jpg');
+
+}
+#monBouton{
+ float: right;
+}
+.bton{
+    margin-left: 5%;
+}
+.accc{
+    border-radius:00px 300px 00px 300px;
+    
+}
